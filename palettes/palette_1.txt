@@ -1,0 +1,30 @@
+/* Coolors Exported Palette - https://coolors.co/987284-75b9be-ee7674-ffb100 */
+
+- CSV
+
+987284,75b9be,ee7674,ffb100
+
+- With #
+
+#987284, #75b9be, #ee7674, #ffb100
+
+- Array
+
+["987284","75b9be","ee7674","ffb100"]
+
+- Object
+
+{"Dusty Mauve":"987284","Tropical Teal":"75b9be","Light Coral":"ee7674","Amber Flame":"ffb100"}
+
+- Extended Array
+
+[{"name":"Dusty Mauve","hex":"987284","rgb":[152,114,132],"cmyk":[0,25,13,40],"hsb":[332,25,60],"hsl":[332,16,52],"lab":[52,18,-4]},{"name":"Tropical Teal","hex":"75b9be","rgb":[117,185,190],"cmyk":[38,3,0,25],"hsb":[184,38,75],"hsl":[184,36,60],"lab":[71,-20,-9]},{"name":"Light Coral","hex":"ee7674","rgb":[238,118,116],"cmyk":[0,50,51,7],"hsb":[1,51,93],"hsl":[1,78,69],"lab":[64,46,23]},{"name":"Amber Flame","hex":"ffb100","rgb":[255,177,0],"cmyk":[0,31,100,0],"hsb":[42,100,100],"hsl":[42,100,50],"lab":[78,18,81]}]
+
+- XML
+
+<palette>
+  <color name="Dusty Mauve" hex="987284" r="152" g="114" b="132" />
+  <color name="Tropical Teal" hex="75b9be" r="117" g="185" b="190" />
+  <color name="Light Coral" hex="ee7674" r="238" g="118" b="116" />
+  <color name="Amber Flame" hex="ffb100" r="255" g="177" b="0" />
+</palette>

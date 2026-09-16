@@ -1,0 +1,30 @@
+/* Coolors Exported Palette - https://coolors.co/5bc0eb-fde74c-9bc53d-f46036 */
+
+- CSV
+
+5bc0eb,fde74c,9bc53d,f46036
+
+- With #
+
+#5bc0eb, #fde74c, #9bc53d, #f46036
+
+- Array
+
+["5bc0eb","fde74c","9bc53d","f46036"]
+
+- Object
+
+{"Sky Surge":"5bc0eb","Banana Cream":"fde74c","Yellow Green":"9bc53d","Tiger Flame":"f46036"}
+
+- Extended Array
+
+[{"name":"Sky Surge","hex":"5bc0eb","rgb":[91,192,235],"cmyk":[61,18,0,8],"hsb":[198,61,92],"hsl":[198,78,64],"lab":[73,-17,-30]},{"name":"Banana Cream","hex":"fde74c","rgb":[253,231,76],"cmyk":[0,9,70,1],"hsb":[53,70,99],"hsl":[53,98,65],"lab":[91,-9,74]},{"name":"Yellow Green","hex":"9bc53d","rgb":[155,197,61],"cmyk":[21,0,69,23],"hsb":[79,69,77],"hsl":[79,54,51],"lab":[74,-33,61]},{"name":"Tiger Flame","hex":"f46036","rgb":[244,96,54],"cmyk":[0,61,78,4],"hsb":[13,78,96],"hsl":[13,90,58],"lab":[60,55,52]}]
+
+- XML
+
+<palette>
+  <color name="Sky Surge" hex="5bc0eb" r="91" g="192" b="235" />
+  <color name="Banana Cream" hex="fde74c" r="253" g="231" b="76" />
+  <color name="Yellow Green" hex="9bc53d" r="155" g="197" b="61" />
+  <color name="Tiger Flame" hex="f46036" r="244" g="96" b="54" />
+</palette>

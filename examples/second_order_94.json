@@ -1,0 +1,118 @@
+{
+  "_note": "second-order rule 94, 24 threads across, in palette_0; the settings of the old random run 045_94R_w24_p00 (its pattern seed), kept in the 4:5 rectangle",
+  "seed": 449388722,
+  "pattern": {
+    "generator": "second_order",
+    "params": {
+      "rule": 94
+    },
+    "width": 24,
+    "height": null
+  },
+  "colors": "palette_0",
+  "plain": {
+    "scale": 30,
+    "fringe": 3,
+    "background": "#1a1a1a"
+  },
+  "render": {
+    "size": 1350,
+    "aspect": "4:5",
+    "style": {
+      "gap": -0.04,
+      "half_height": 0.17,
+      "amp": 0.19,
+      "wobble": 0.04,
+      "width_jitter": 0.04,
+      "slub": 0.03,
+      "distort": [
+        [
+          40,
+          0.3
+        ]
+      ],
+      "drape": [],
+      "fringe": 2.5,
+      "fringe_jitter": 0.2,
+      "loose": 0.03,
+      "wiggle": 0.05,
+      "fray": 0.5,
+      "fray_plies": 3,
+      "fray_spread": 0.12,
+      "fray_fibres": 3,
+      "taper": 0.0,
+      "twist_angle": 60.0,
+      "twist_spacing": 0.32,
+      "twist_contrast": 0.35,
+      "fibre_contrast": 0.8,
+      "fibre_stretch": 20.0,
+      "bump": 0.6,
+      "roughness": 0.8,
+      "sheen": 0.6,
+      "color_jitter": 0.2,
+      "hue_jitter": 0.013,
+      "fuzz": 80.0,
+      "fuzz_length": 0.25,
+      "fuzz_lift": 1.6,
+      "fuzz_curl": 2.5,
+      "fuzz_thickness": 1.0,
+      "ply_count": 0,
+      "subsurface": 0.0,
+      "specular": 0.5,
+      "heather": 0.0,
+      "saturation": 1.0,
+      "lighting": "area",
+      "light_tilt": 50.0,
+      "light_azimuth": -150.0,
+      "light_strength": 5.64,
+      "light_softness": 4.0,
+      "light_distance": 200.0,
+      "light_size": 160.0,
+      "light_target": [
+        0.0,
+        0.0
+      ],
+      "spot_angle": 60.0,
+      "spot_blend": 0.8,
+      "light_color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "fill": 0.4,
+      "fill_color": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "hdri": "",
+      "hdri_strength": 0.5,
+      "hdri_rotation": 0.0,
+      "view_transform": "Standard",
+      "exposure": 0.0,
+      "samples": 64,
+      "denoise": true,
+      "margin": null,
+      "samples_along": 8,
+      "samples_around": 12
+    }
+  },
+  "post": {
+    "grain": {
+      "amount": 0.07,
+      "size": 1.5,
+      "colour": 0.0,
+      "midtones": 1.0
+    },
+    "background": {
+      "level": 26.0,
+      "tint": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "grain": 0.025,
+      "grain_size": 1.5
+    }
+  }
+}

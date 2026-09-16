@@ -1,0 +1,31 @@
+/* Coolors Exported Palette - https://coolors.co/160c28-efcb68-cc2936-7d84b2-a09be7 */
+
+- CSV
+
+160c28,efcb68,cc2936,7d84b2,a09be7
+
+- With #
+
+#160c28, #efcb68, #cc2936, #7d84b2, #a09be7
+
+- Array
+
+["160c28","efcb68","cc2936","7d84b2","a09be7"]
+
+- Object
+
+{"Midnight Violet":"160c28","Royal Gold":"efcb68","Tomato Jam":"cc2936","Lavender Grey":"7d84b2","Soft Periwinkle":"a09be7"}
+
+- Extended Array
+
+[{"name":"Midnight Violet","hex":"160c28","rgb":[22,12,40],"cmyk":[45,70,0,84],"hsb":[261,70,16],"hsl":[261,54,10],"lab":[5,12,-17]},{"name":"Royal Gold","hex":"efcb68","rgb":[239,203,104],"cmyk":[0,15,56,6],"hsb":[44,56,94],"hsl":[44,81,67],"lab":[83,1,53]},{"name":"Tomato Jam","hex":"cc2936","rgb":[204,41,54],"cmyk":[0,80,74,20],"hsb":[355,80,80],"hsl":[355,67,48],"lab":[45,62,34]},{"name":"Lavender Grey","hex":"7d84b2","rgb":[125,132,178],"cmyk":[30,26,0,30],"hsb":[232,30,70],"hsl":[232,26,59],"lab":[56,8,-25]},{"name":"Soft Periwinkle","hex":"a09be7","rgb":[160,155,231],"cmyk":[31,33,0,9],"hsb":[244,33,91],"hsl":[244,61,76],"lab":[67,19,-38]}]
+
+- XML
+
+<palette>
+  <color name="Midnight Violet" hex="160c28" r="22" g="12" b="40" />
+  <color name="Royal Gold" hex="efcb68" r="239" g="203" b="104" />
+  <color name="Tomato Jam" hex="cc2936" r="204" g="41" b="54" />
+  <color name="Lavender Grey" hex="7d84b2" r="125" g="132" b="178" />
+  <color name="Soft Periwinkle" hex="a09be7" r="160" g="155" b="231" />
+</palette>

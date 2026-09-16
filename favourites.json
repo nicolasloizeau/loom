@@ -1,0 +1,16 @@
+[
+  {"generator": "total9", "params": {"code": 922}},
+  {"generator": "total9", "params": {"code": 718}},
+  {"generator": "total9", "params": {"code": 926}},
+  {"generator": "second_order", "params": {"rule": 90}},
+  {"generator": "second_order", "params": {"rule": 91}},
+  {"generator": "second_order", "params": {"rule": 94}},
+  {"generator": "second_order", "params": {"rule": 95}},
+  {"generator": "second_order", "params": {"rule": 123}},
+  {"generator": "second_order", "params": {"rule": 219}},
+  {"generator": "second_order", "params": {"rule": 250}},
+  {"generator": "second_order", "params": {"rule": 122}},
+  {"generator": "second_order", "params": {"rule": 74}},
+  {"generator": "totalistic", "params": {"rule": 5}},
+  {"generator": "totalistic", "params": {"rule": 45}}
+]

@@ -1,0 +1,32 @@
+/* Coolors Exported Palette - https://coolors.co/582707-972d07-ff4b3e-ff7f27-ffb20f-ffe548 */
+
+- CSV
+
+582707,972d07,ff4b3e,ff7f27,ffb20f,ffe548
+
+- With #
+
+#582707, #972d07, #ff4b3e, #ff7f27, #ffb20f, #ffe548
+
+- Array
+
+["582707","972d07","ff4b3e","ff7f27","ffb20f","ffe548"]
+
+- Object
+
+{"Dark Walnut":"582707","Rust Brown":"972d07","Tomato":"ff4b3e","Pumpkin Spice":"ff7f27","Amber Flame":"ffb20f","Banana Cream":"ffe548"}
+
+- Extended Array
+
+[{"name":"Dark Walnut","hex":"582707","rgb":[88,39,7],"cmyk":[0,56,92,65],"hsb":[24,92,35],"hsl":[24,85,19],"lab":[22,20,29]},{"name":"Rust Brown","hex":"972d07","rgb":[151,45,7],"cmyk":[0,70,95,41],"hsb":[16,95,59],"hsl":[16,91,31],"lab":[35,43,44]},{"name":"Tomato","hex":"ff4b3e","rgb":[255,75,62],"cmyk":[0,71,76,0],"hsb":[4,76,100],"hsl":[4,100,62],"lab":[59,67,47]},{"name":"Pumpkin Spice","hex":"ff7f27","rgb":[255,127,39],"cmyk":[0,50,85,0],"hsb":[24,85,100],"hsl":[24,100,58],"lab":[67,44,65]},{"name":"Amber Flame","hex":"ffb20f","rgb":[255,178,15],"cmyk":[0,30,94,0],"hsb":[41,94,100],"hsl":[41,100,53],"lab":[78,17,79]},{"name":"Banana Cream","hex":"ffe548","rgb":[255,229,72],"cmyk":[0,10,72,0],"hsb":[51,72,100],"hsl":[51,100,64],"lab":[91,-7,75]}]
+
+- XML
+
+<palette>
+  <color name="Dark Walnut" hex="582707" r="88" g="39" b="7" />
+  <color name="Rust Brown" hex="972d07" r="151" g="45" b="7" />
+  <color name="Tomato" hex="ff4b3e" r="255" g="75" b="62" />
+  <color name="Pumpkin Spice" hex="ff7f27" r="255" g="127" b="39" />
+  <color name="Amber Flame" hex="ffb20f" r="255" g="178" b="15" />
+  <color name="Banana Cream" hex="ffe548" r="255" g="229" b="72" />
+</palette>
