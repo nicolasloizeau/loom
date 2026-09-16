@@ -1,4 +1,4 @@
-# loom: generative woven cloth
+# Loom: generative woven cloth
 
 Images of woven cloth from a JSON settings file. Two systems read the same
 file:
